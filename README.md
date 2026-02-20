@@ -5,7 +5,7 @@ Simple Encrypt
  Written on February 19th, 2026
 -------------
 
-<h6>Functionality<h6>
+<h3>Functionality<h3>
 This console program takes a lowercase input word
 and outputs an encrypted equivalent word.
 
@@ -20,7 +20,7 @@ The program terminates after a lowercase word is given
 than lowercase values; an error outputs encouraging the
 user to restart the program & try again with a lowercase word.
 
-<h6>Building & Running the Program<h6>
+<h3>Building & Running the Program<h3>
 the binary for Simple Encrypt can be built with the
 included makeFile inside this repository through a
 console application by running the command "make SimpleEncrypt".
@@ -36,7 +36,7 @@ the program. Please validate that the provided SimpleEncrypt.cpp &
 makeFile are located in this repository during the build process 
 to avoid any errors in locating the files.
 
-<h6>Limitations<h6>
+<h3>Limitations<h3>
 This tool is registered under the GPL-3.0 license to
 enable unlimited source code access, use, modification,
 & distribution free of cost.
@@ -54,7 +54,7 @@ all alterations apply under the GPL-3.0 license.
 The creator of this software is not liable for any damages that may 
 occur arising from its use & guarantees zero warranty from its use.
 
-<h6>Conditions<h6>
+<h3>Conditions<h3>
 The GPL-3.0 license this application is registered under has expected 
 requirements when utilizing this software in any purpose:
 
@@ -63,7 +63,7 @@ requirements when utilizing this software in any purpose:
 - Users must disclose the source of this software.
 - Users must use the GPL-3.0 license in their purpose.
 
-<h6>Responsible Use Statement & Misuse Considerations<h6>
+<h3>Responsible Use Statement & Misuse Considerations<h3>
 The GPL-3.0 license this application is registered under does not 
 prevent 3rd parties in utilizing its code for any purpose whether it be 
 harmless or malicious with intent. For example, the same encryption method
