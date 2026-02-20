@@ -1,8 +1,7 @@
 -------------
 Simple Encrypt
-
- Authored by Jacob Thomas Groneman, A.S.
- Written on February 19th, 2026
+Authored by Jacob Thomas Groneman, A.S.
+Written on February 19th, 2026
 -------------
 
 <h3>Functionality</h3>
