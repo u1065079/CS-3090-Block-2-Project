@@ -1,0 +1,2 @@
+SimpleEncrypt: SimpleEncrypt.cpp
+	g++ -o SimpleEncrypt SimpleEncrypt.cpp
