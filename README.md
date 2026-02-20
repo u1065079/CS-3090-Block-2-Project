@@ -63,7 +63,7 @@ requirements when utilizing this software in any purpose:
 - Users must disclose the source of this software.
 - Users must use the GPL-3.0 license in their purpose.
 
-<h3>Responsible Use Statement & Misuse Considerations<h3>
+<h3>Responsible Use Statement & Misuse Considerations</h3>
 The GPL-3.0 license this application is registered under does not 
 prevent 3rd parties in utilizing its code for any purpose whether it be 
 harmless or malicious with intent. For example, the same encryption method
